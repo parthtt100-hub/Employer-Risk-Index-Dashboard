@@ -1,0 +1,1001 @@
+employment_type,required_experience,industry,telecommuting,has_company_logo,total_jobs,fake_jobs,fake_percentage
+Other,Internship,NULL,0,1,5,0,0
+Full-time,"Not Applicable","Marketing and Advertising",0,1,27,0,0
+NULL,NULL,NULL,0,1,2192,27,1.23
+Full-time,"Mid-Senior level","Computer Software",0,1,471,2,0.42
+Full-time,"Mid-Senior level","Hospital & Health Care",0,1,44,0,0
+NULL,NULL,NULL,0,0,759,145,19.1
+Full-time,"Mid-Senior level","Online Media",0,1,28,0,0
+Full-time,Associate,"Information Technology and Services",0,1,268,0,0
+Part-time,"Entry level","Financial Services",0,1,47,0,0
+Full-time,"Mid-Senior level","Information Technology and Services",0,0,130,5,3.85
+Full-time,Associate,"Management Consulting",0,1,12,1,8.33
+Full-time,"Not Applicable","Events Services",0,1,2,0,0
+Full-time,Associate,Internet,0,1,199,0,0
+Full-time,Executive,"Facilities Services",0,1,1,0,0
+Full-time,"Mid-Senior level",Internet,0,1,320,0,0
+Full-time,NULL,NULL,0,0,448,19,4.24
+Full-time,"Mid-Senior level","Consumer Electronics",0,1,11,0,0
+Full-time,"Mid-Senior level",Telecommunications,0,1,88,3,3.41
+Full-time,Executive,Internet,0,1,4,0,0
+Full-time,Associate,"Online Media",0,1,21,0,0
+Full-time,Associate,"Hospital & Health Care",0,1,54,0,0
+Full-time,NULL,"Management Consulting",0,0,39,2,5.13
+Full-time,"Entry level","Consumer Services",0,1,178,7,3.93
+Full-time,"Entry level","Computer Software",0,1,103,0,0
+Full-time,Associate,"Computer Software",0,1,202,0,0
+Full-time,"Entry level",Construction,0,1,21,0,0
+Full-time,NULL,"Oil & Energy",0,1,60,24,40
+Full-time,NULL,"Marketing and Advertising",0,1,76,2,2.63
+Contract,NULL,"Education Management",0,1,539,0,0
+Full-time,"Mid-Senior level","Oil & Energy",0,0,7,1,14.29
+Full-time,"Entry level","Financial Services",0,1,176,2,1.14
+Full-time,"Entry level","Computer Software",0,0,21,1,4.76
+Full-time,NULL,"Building Materials",0,1,54,0,0
+Full-time,"Entry level",Banking,0,0,1,0,0
+Full-time,"Entry level","Facilities Services",0,1,38,0,0
+Full-time,"Entry level","Food & Beverages",0,1,8,0,0
+Full-time,"Entry level","Education Management",0,1,10,0,0
+Full-time,NULL,"Information Technology and Services",0,1,156,2,1.28
+Full-time,Associate,"Financial Services",0,0,24,1,4.17
+NULL,NULL,"Hospital & Health Care",0,1,25,0,0
+Full-time,"Not Applicable","Information Technology and Services",0,1,70,0,0
+Contract,"Entry level","Education Management",0,1,190,0,0
+Full-time,"Entry level","Food Production",0,1,15,0,0
+Full-time,"Entry level","Hospital & Health Care",0,1,64,0,0
+Full-time,NULL,"Computer Software",0,1,134,0,0
+Contract,NULL,NULL,0,0,41,2,4.88
+Full-time,Associate,Banking,0,1,26,0,0
+Full-time,NULL,"Health, Wellness and Fitness",0,0,19,13,68.42
+Part-time,"Entry level",Insurance,0,1,5,0,0
+Full-time,"Mid-Senior level",E-Learning,0,1,31,0,0
+Full-time,"Mid-Senior level","Computer Software",0,0,62,1,1.61
+Full-time,"Mid-Senior level",Banking,1,0,5,0,0
+Temporary,Associate,Cosmetics,0,1,21,0,0
+Part-time,"Entry level","Facilities Services",0,1,24,0,0
+Full-time,Associate,"Financial Services",0,1,175,18,10.29
+Full-time,"Entry level",Insurance,0,1,23,0,0
+Full-time,Associate,"Marketing and Advertising",0,1,128,0,0
+Full-time,NULL,"Staffing and Recruiting",0,1,42,0,0
+Full-time,"Entry level","Consumer Services",1,0,1,0,0
+Full-time,"Not Applicable",NULL,0,1,88,0,0
+Full-time,Director,Internet,0,1,34,0,0
+Full-time,"Mid-Senior level","Financial Services",0,1,129,0,0
+Full-time,"Mid-Senior level","Oil & Energy",0,1,85,36,42.35
+Full-time,"Entry level",Internet,1,1,5,0,0
+Full-time,"Mid-Senior level",Internet,1,1,26,0,0
+Full-time,Internship,NULL,0,1,38,0,0
+Full-time,"Not Applicable","Venture Capital & Private Equity",0,1,4,0,0
+Full-time,Director,"Management Consulting",0,1,9,0,0
+Part-time,"Entry level","Hospital & Health Care",0,1,23,0,0
+Full-time,"Mid-Senior level","Leisure, Travel & Tourism",0,1,15,0,0
+NULL,NULL,NULL,1,1,73,5,6.85
+NULL,"Not Applicable","Human Resources",0,1,11,0,0
+Full-time,"Entry level",Internet,0,1,90,0,0
+Full-time,Director,"Computer Software",0,1,26,0,0
+Full-time,Associate,"Consumer Services",0,1,26,5,19.23
+Full-time,NULL,NULL,0,1,528,2,0.38
+Part-time,"Entry level","Education Management",0,1,9,0,0
+Full-time,Associate,Pharmaceuticals,0,1,10,0,0
+Temporary,Internship,Farming,0,1,1,0,0
+Full-time,"Entry level",Telecommunications,0,1,72,1,1.39
+Full-time,"Entry level","Legal Services",0,1,58,0,0
+Full-time,"Mid-Senior level","Luxury Goods & Jewelry",0,1,2,0,0
+Contract,NULL,Machinery,0,0,1,0,0
+Full-time,Associate,"Real Estate",0,0,6,0,0
+Contract,NULL,NULL,1,0,3,0,0
+Full-time,Associate,"Mechanical or Industrial Engineering",0,0,4,0,0
+Full-time,Director,NULL,0,0,2,0,0
+Full-time,"Mid-Senior level","Public Relations and Communications",0,1,8,0,0
+Full-time,Internship,"Computer Software",0,1,4,0,0
+Full-time,"Mid-Senior level","Consumer Goods",0,0,1,0,0
+Full-time,"Entry level","Financial Services",0,0,28,2,7.14
+Full-time,"Entry level","Marketing and Advertising",0,1,119,0,0
+Full-time,Associate,"Medical Practice",0,1,14,0,0
+Full-time,"Mid-Senior level","Electrical/Electronic Manufacturing",0,1,22,1,4.55
+Full-time,Associate,Cosmetics,0,1,1,0,0
+Other,"Entry level","Financial Services",0,1,2,0,0
+Full-time,Director,"Marketing and Advertising",0,1,30,7,23.33
+Full-time,"Mid-Senior level","Information Technology and Services",0,1,445,10,2.25
+Full-time,"Mid-Senior level","Hospital & Health Care",0,0,27,0,0
+NULL,NULL,Cosmetics,0,1,12,0,0
+Part-time,"Entry level","Medical Practice",0,1,4,0,0
+Full-time,"Entry level",Hospitality,0,0,3,2,66.67
+Full-time,"Mid-Senior level","Marketing and Advertising",0,1,186,13,6.99
+Full-time,"Entry level","Consumer Electronics",0,1,9,0,0
+Full-time,"Not Applicable","Consumer Services",0,1,16,0,0
+Part-time,"Entry level","Consumer Services",0,1,30,0,0
+Full-time,"Entry level","Information Technology and Services",0,1,140,1,0.71
+Full-time,Director,Telecommunications,0,1,10,3,30
+Full-time,"Mid-Senior level",Music,0,1,2,0,0
+Full-time,"Not Applicable","Market Research",0,0,1,0,0
+Full-time,Associate,"Information Technology and Services",0,0,19,0,0
+NULL,"Not Applicable",NULL,0,1,69,0,0
+Contract,"Mid-Senior level","Information Technology and Services",0,1,63,2,3.17
+Full-time,"Not Applicable","Education Management",0,1,3,0,0
+Full-time,"Not Applicable",Automotive,0,0,12,0,0
+Full-time,"Not Applicable",Internet,0,1,44,0,0
+Full-time,"Entry level",NULL,0,0,13,1,7.69
+Contract,"Mid-Senior level","Information Technology and Services",0,0,39,5,12.82
+Full-time,NULL,"Marketing and Advertising",0,0,44,2,4.55
+Full-time,"Not Applicable","Computer Software",0,1,41,0,0
+NULL,NULL,"Building Materials",0,1,1,0,0
+Other,Internship,"Computer Software",1,1,1,0,0
+Full-time,Associate,"Consumer Goods",0,1,11,0,0
+Full-time,"Mid-Senior level",Philanthropy,0,1,3,0,0
+Full-time,"Entry level","Online Media",0,1,12,0,0
+Full-time,"Not Applicable","Hospital & Health Care",0,1,20,0,0
+Full-time,"Not Applicable",Utilities,0,0,1,0,0
+Full-time,Associate,Hospitality,0,1,17,0,0
+Contract,"Not Applicable",Banking,0,1,1,0,0
+Full-time,NULL,Telecommunications,0,1,29,0,0
+Full-time,NULL,"Health, Wellness and Fitness",0,1,10,0,0
+Contract,NULL,NULL,1,1,11,0,0
+Other,Internship,"Information Technology and Services",0,1,3,0,0
+Temporary,NULL,NULL,0,1,14,0,0
+Full-time,Director,Farming,0,1,14,0,0
+Full-time,"Not Applicable","Primary/Secondary Education",0,1,1,0,0
+Full-time,Associate,"Logistics and Supply Chain",0,1,15,0,0
+Full-time,NULL,Design,0,1,18,0,0
+Full-time,"Mid-Senior level","Gambling & Casinos",0,0,19,0,0
+Full-time,NULL,"Primary/Secondary Education",0,1,3,0,0
+Contract,Associate,Automotive,0,0,1,1,100
+Part-time,NULL,Accounting,0,1,1,0,0
+Part-time,NULL,NULL,1,0,1,0,0
+Full-time,Associate,Insurance,0,1,18,0,0
+Full-time,Director,"Health, Wellness and Fitness",0,1,3,0,0
+Full-time,Director,"Information Technology and Services",1,1,7,0,0
+Full-time,"Mid-Senior level","Environmental Services",0,1,5,3,60
+Full-time,Internship,"Financial Services",0,1,4,0,0
+Full-time,"Mid-Senior level",Construction,0,0,7,0,0
+Full-time,"Mid-Senior level","Financial Services",0,0,25,0,0
+Full-time,Associate,"Mental Health Care",0,0,3,0,0
+Full-time,"Not Applicable","Investment Management",0,1,1,0,0
+Full-time,"Mid-Senior level","Management Consulting",0,1,29,2,6.9
+Part-time,"Entry level","Computer Software",0,1,8,0,0
+Full-time,"Mid-Senior level","Information Technology and Services",1,1,20,0,0
+Full-time,"Mid-Senior level","Human Resources",0,1,10,0,0
+Full-time,Associate,E-Learning,0,1,28,0,0
+Full-time,Associate,"Apparel & Fashion",0,1,7,0,0
+Other,Internship,"Media Production",0,1,1,0,0
+NULL,"Mid-Senior level",NULL,0,1,3,0,0
+Full-time,Associate,Publishing,0,1,5,0,0
+NULL,NULL,"Information Technology and Services",0,0,3,0,0
+Contract,"Mid-Senior level",Banking,0,1,4,0,0
+Full-time,"Entry level","Medical Devices",0,1,2,0,0
+Part-time,"Entry level",Telecommunications,0,1,17,0,0
+Full-time,"Entry level",Telecommunications,1,1,20,0,0
+Full-time,"Mid-Senior level","Information Services",0,0,4,0,0
+Full-time,"Not Applicable","Health, Wellness and Fitness",0,1,2,0,0
+Full-time,"Entry level","Real Estate",0,1,15,1,6.67
+Full-time,Associate,Retail,0,0,8,0,0
+Full-time,"Not Applicable",Automotive,0,1,6,0,0
+NULL,"Mid-Senior level",Banking,0,1,2,0,0
+Full-time,Associate,Insurance,0,0,2,0,0
+Full-time,NULL,Automotive,0,1,18,0,0
+Part-time,NULL,NULL,0,1,41,0,0
+Contract,"Entry level","Real Estate",0,1,1,0,0
+Full-time,Associate,Sports,0,1,8,0,0
+Full-time,Associate,Internet,0,0,18,0,0
+Full-time,NULL,"Computer Games",0,1,13,0,0
+Part-time,Associate,"Events Services",0,0,1,0,0
+Full-time,NULL,"Hospital & Health Care",0,0,37,34,91.89
+Full-time,"Mid-Senior level",Chemicals,0,1,14,0,0
+Full-time,"Entry level","Health, Wellness and Fitness",0,1,13,0,0
+Full-time,NULL,Accounting,0,0,41,2,4.88
+Full-time,NULL,"Facilities Services",0,0,14,0,0
+Full-time,Associate,"Aviation & Aerospace",0,1,5,0,0
+Full-time,"Mid-Senior level","Marketing and Advertising",0,0,28,0,0
+Full-time,Associate,Accounting,0,1,19,2,10.53
+Other,Internship,Design,0,1,4,0,0
+Full-time,"Not Applicable","Financial Services",0,0,9,2,22.22
+Full-time,Executive,"Hospital & Health Care",0,0,10,0,0
+Temporary,NULL,Retail,0,1,1,0,0
+Full-time,Internship,Banking,1,0,1,0,0
+Full-time,"Not Applicable",Retail,0,1,7,0,0
+Temporary,Internship,"Management Consulting",0,1,2,0,0
+Full-time,Associate,NULL,0,1,59,0,0
+Part-time,"Entry level","Consumer Services",0,0,4,2,50
+Full-time,NULL,"Information Technology and Services",0,0,70,3,4.29
+Full-time,"Mid-Senior level","Business Supplies and Equipment",0,1,2,0,0
+Full-time,Executive,"Public Relations and Communications",0,1,2,0,0
+Full-time,"Mid-Senior level","Program Development",0,0,2,0,0
+Full-time,"Entry level","Oil & Energy",0,1,13,3,23.08
+Full-time,"Entry level",Accounting,0,1,13,6,46.15
+Temporary,Internship,NULL,0,0,2,0,0
+Part-time,Internship,NULL,0,1,9,0,0
+Part-time,Associate,"Real Estate",0,0,1,0,0
+Full-time,"Mid-Senior level","Computer Networking",0,1,23,9,39.13
+Full-time,Director,"Financial Services",0,0,1,0,0
+Full-time,"Not Applicable","Computer Software",1,0,2,0,0
+Other,"Not Applicable","Hospital & Health Care",0,1,5,0,0
+NULL,Associate,"Real Estate",0,0,1,0,0
+Full-time,NULL,Internet,0,1,91,0,0
+Full-time,"Not Applicable",Telecommunications,0,1,13,0,0
+Full-time,"Entry level","Human Resources",0,1,14,2,14.29
+Full-time,Director,"Consumer Electronics",0,1,2,0,0
+Part-time,"Entry level","Logistics and Supply Chain",0,1,3,0,0
+Full-time,NULL,Pharmaceuticals,0,1,3,0,0
+Contract,"Entry level",NULL,0,0,2,0,0
+Full-time,"Entry level","Financial Services",1,0,8,0,0
+Full-time,"Entry level",Hospitality,0,1,12,1,8.33
+NULL,"Not Applicable","Primary/Secondary Education",0,0,1,0,0
+Full-time,Associate,Biotechnology,0,1,11,0,0
+Contract,"Entry level","Consumer Services",0,1,3,0,0
+Full-time,NULL,"Education Management",0,1,23,0,0
+Full-time,"Entry level","Computer Games",0,1,8,0,0
+Full-time,NULL,"Computer Software",0,0,69,0,0
+Full-time,"Entry level",Retail,0,1,32,4,12.5
+Full-time,"Mid-Senior level",Design,0,1,33,0,0
+Part-time,"Entry level",Retail,0,1,8,0,0
+Part-time,NULL,"Hospital & Health Care",0,1,32,0,0
+Full-time,"Mid-Senior level",Publishing,0,1,9,0,0
+Full-time,"Not Applicable","Human Resources",0,1,19,0,0
+Full-time,"Mid-Senior level",Utilities,1,0,2,0,0
+Full-time,"Entry level","Computer Software",1,0,5,1,20
+Full-time,"Mid-Senior level",Retail,0,1,45,1,2.22
+Full-time,"Not Applicable",Telecommunications,0,0,3,1,33.33
+Full-time,"Mid-Senior level","Computer Games",0,1,37,0,0
+Part-time,NULL,E-Learning,0,1,2,0,0
+Full-time,"Entry level","Civic & Social Organization",0,1,33,0,0
+Part-time,"Entry level",Internet,0,1,9,0,0
+Part-time,"Entry level","Consumer Goods",0,1,1,0,0
+Full-time,"Mid-Senior level",Design,1,1,4,0,0
+Full-time,"Entry level",Internet,0,0,7,0,0
+Full-time,Director,"Hospital & Health Care",0,0,7,0,0
+Full-time,Director,NULL,0,1,16,2,12.5
+Full-time,"Mid-Senior level","Logistics and Supply Chain",0,1,34,0,0
+Full-time,Associate,"Leisure, Travel & Tourism",1,1,2,0,0
+Full-time,"Not Applicable","Marketing and Advertising",0,0,14,7,50
+Full-time,Associate,"Human Resources",0,1,9,0,0
+Full-time,"Not Applicable","Consumer Goods",0,0,2,0,0
+Part-time,Associate,"Religious Institutions",0,1,3,0,0
+Full-time,"Not Applicable",Warehousing,0,1,15,0,0
+Full-time,"Mid-Senior level",NULL,0,1,105,0,0
+Full-time,NULL,"Online Media",0,1,4,0,0
+Full-time,"Not Applicable",Airlines/Aviation,0,1,4,0,0
+Contract,"Mid-Senior level",Internet,0,1,9,0,0
+NULL,"Entry level",NULL,0,0,3,1,33.33
+Full-time,NULL,"Financial Services",0,0,6,0,0
+Full-time,"Not Applicable",Insurance,0,1,22,2,9.09
+Full-time,"Not Applicable",Construction,0,1,12,0,0
+Full-time,"Mid-Senior level",Construction,0,1,28,0,0
+Full-time,"Not Applicable","Food & Beverages",0,1,11,0,0
+Full-time,Associate,Retail,0,1,21,0,0
+Full-time,Associate,"Education Management",0,1,12,0,0
+Contract,NULL,"Food & Beverages",0,1,6,0,0
+Other,Internship,"Writing and Editing",1,1,1,0,0
+Full-time,NULL,Construction,0,1,12,0,0
+Contract,"Mid-Senior level","Hospital & Health Care",0,1,3,0,0
+Full-time,NULL,"Financial Services",0,1,72,4,5.56
+Full-time,Associate,Automotive,0,0,2,0,0
+Full-time,"Not Applicable",Restaurants,0,1,6,0,0
+Full-time,"Mid-Senior level",Retail,1,1,1,0,0
+Contract,Executive,"Leisure, Travel & Tourism",0,1,1,0,0
+Full-time,"Entry level",Outsourcing/Offshoring,0,1,4,0,0
+Full-time,"Entry level","Marketing and Advertising",0,0,12,0,0
+NULL,NULL,Transportation/Trucking/Railroad,0,1,2,0,0
+Full-time,Associate,"Events Services",0,1,11,0,0
+Contract,Executive,Hospitality,0,1,2,2,100
+Temporary,Internship,"Management Consulting",0,0,1,0,0
+Full-time,Director,"Online Media",0,1,8,0,0
+Other,NULL,NULL,0,0,7,1,14.29
+Full-time,"Mid-Senior level",Wireless,0,1,1,0,0
+Full-time,NULL,"Hospital & Health Care",0,1,35,0,0
+Full-time,NULL,"Consumer Goods",0,0,1,0,0
+Full-time,"Mid-Senior level","Events Services",0,1,4,0,0
+Part-time,Internship,"Marketing and Advertising",1,1,2,0,0
+Full-time,NULL,"Consumer Services",0,0,2,0,0
+Full-time,"Mid-Senior level",Banking,0,0,5,0,0
+Full-time,"Entry level","Investment Banking",0,1,1,0,0
+Full-time,Internship,Internet,0,0,3,0,0
+Full-time,Associate,"Medical Devices",0,0,1,0,0
+Contract,"Mid-Senior level",NULL,0,1,15,0,0
+Full-time,"Entry level","Financial Services",1,1,4,1,25
+Contract,"Mid-Senior level",NULL,0,0,26,1,3.85
+Full-time,"Mid-Senior level","Consumer Services",0,1,12,0,0
+Full-time,NULL,"Public Relations and Communications",0,1,3,0,0
+Full-time,Executive,"Financial Services",0,1,8,0,0
+Full-time,Internship,Internet,0,1,21,0,0
+Full-time,"Entry level","Nonprofit Organization Management",0,1,5,0,0
+NULL,Internship,NULL,0,1,12,0,0
+Contract,"Mid-Senior level",Accounting,0,1,1,0,0
+Full-time,Executive,Construction,0,0,1,0,0
+Full-time,"Mid-Senior level",Internet,0,0,25,0,0
+Full-time,Associate,Internet,1,0,10,0,0
+Full-time,NULL,"Media Production",0,0,2,0,0
+Contract,"Entry level","Hospital & Health Care",1,0,1,0,0
+Contract,"Entry level","Human Resources",1,0,2,0,0
+Full-time,"Mid-Senior level",E-Learning,0,0,8,0,0
+Contract,"Mid-Senior level","Financial Services",0,0,1,0,0
+Part-time,"Not Applicable","Health, Wellness and Fitness",0,0,3,0,0
+Part-time,"Not Applicable",Internet,0,1,4,0,0
+Full-time,"Not Applicable",Accounting,0,1,6,1,16.67
+Contract,"Mid-Senior level",Internet,1,1,5,0,0
+Full-time,"Mid-Senior level","Nonprofit Organization Management",0,1,16,0,0
+Contract,"Mid-Senior level",Airlines/Aviation,0,1,1,0,0
+Full-time,"Mid-Senior level",Design,0,0,4,1,25
+Full-time,Associate,"Environmental Services",0,0,7,0,0
+NULL,"Entry level",Telecommunications,0,1,10,0,0
+Part-time,"Entry level","Computer Software",0,0,1,0,0
+Full-time,"Entry level",Automotive,0,1,23,0,0
+Full-time,"Entry level",NULL,0,1,63,1,1.59
+Full-time,Director,"Information Technology and Services",0,1,36,0,0
+Full-time,"Entry level","Leisure, Travel & Tourism",0,1,13,0,0
+Full-time,Director,"Hospital & Health Care",0,1,10,0,0
+Full-time,Internship,Design,0,1,5,0,0
+Full-time,"Not Applicable",Retail,0,0,3,0,0
+Full-time,NULL,E-Learning,0,0,1,0,0
+NULL,"Entry level",Construction,0,1,7,0,0
+Full-time,"Mid-Senior level",Accounting,0,0,3,1,33.33
+Contract,"Mid-Senior level",E-Learning,0,0,1,0,0
+Contract,NULL,Internet,1,1,7,0,0
+Part-time,"Not Applicable",Libraries,0,0,1,0,0
+Other,"Mid-Senior level",Internet,0,1,2,0,0
+Contract,NULL,"Writing and Editing",1,0,1,0,0
+Part-time,"Mid-Senior level","Marketing and Advertising",0,1,1,0,0
+Full-time,"Entry level","Computer Hardware",0,1,14,0,0
+Full-time,"Mid-Senior level","Broadcast Media",0,1,42,0,0
+NULL,"Entry level",NULL,0,1,5,0,0
+Full-time,"Entry level",Design,0,1,11,0,0
+Full-time,NULL,Publishing,0,1,2,0,0
+Full-time,"Mid-Senior level",Printing,1,1,2,0,0
+Full-time,Internship,"Marketing and Advertising",0,1,13,0,0
+Temporary,Internship,Telecommunications,0,1,1,0,0
+Other,"Not Applicable",Telecommunications,0,0,1,0,0
+Full-time,"Mid-Senior level","Information Technology and Services",1,0,5,0,0
+Full-time,Executive,"Information Technology and Services",0,1,13,0,0
+Contract,NULL,"Graphic Design",0,1,1,0,0
+Full-time,"Not Applicable",Banking,0,1,1,0,0
+Part-time,"Not Applicable",Retail,0,1,11,0,0
+Full-time,Executive,"Computer Software",0,1,6,0,0
+Part-time,"Not Applicable",Hospitality,0,0,2,0,0
+Part-time,Internship,Internet,0,1,7,0,0
+Full-time,NULL,"Gambling & Casinos",0,0,8,0,0
+Other,NULL,"Hospital & Health Care",0,1,6,0,0
+Contract,NULL,"Information Technology and Services",0,1,18,0,0
+Full-time,"Mid-Senior level",Entertainment,0,1,23,0,0
+Part-time,"Mid-Senior level",Internet,0,1,1,0,0
+Full-time,"Entry level","Hospital & Health Care",0,0,17,14,82.35
+Full-time,Executive,"Information Technology and Services",1,0,1,0,0
+Full-time,"Entry level",Wholesale,0,1,2,0,0
+Full-time,Associate,"Information Technology and Services",1,1,18,0,0
+Full-time,"Mid-Senior level",Banking,0,1,13,0,0
+Full-time,"Mid-Senior level","Food Production",0,1,7,0,0
+Full-time,"Mid-Senior level","Media Production",0,1,18,0,0
+Full-time,NULL,"Human Resources",0,0,13,0,0
+Full-time,"Mid-Senior level",Entertainment,0,0,9,0,0
+Full-time,NULL,Research,0,1,13,0,0
+Full-time,Director,"Apparel & Fashion",0,1,5,0,0
+Contract,"Not Applicable","Logistics and Supply Chain",0,1,2,0,0
+Full-time,Internship,"Information Technology and Services",0,1,10,0,0
+Full-time,"Mid-Senior level","Apparel & Fashion",0,1,34,0,0
+Full-time,"Not Applicable","Information Technology and Services",0,0,6,0,0
+Full-time,"Mid-Senior level","Medical Practice",0,1,7,0,0
+Part-time,"Entry level",Accounting,0,0,3,2,66.67
+Full-time,"Mid-Senior level",Automotive,0,1,26,3,11.54
+Full-time,Associate,"Public Relations and Communications",0,1,18,0,0
+Other,"Entry level","Marketing and Advertising",0,1,2,0,0
+Full-time,"Mid-Senior level","Religious Institutions",0,1,1,0,0
+Other,NULL,E-Learning,0,1,17,0,0
+Contract,Associate,"Computer Software",0,1,6,0,0
+NULL,"Entry level","Hospital & Health Care",0,1,7,0,0
+Full-time,"Not Applicable","Facilities Services",0,1,2,0,0
+Full-time,"Mid-Senior level","Leisure, Travel & Tourism",0,0,1,0,0
+Full-time,"Not Applicable","Consumer Services",1,1,2,0,0
+Full-time,"Not Applicable","Financial Services",0,1,12,0,0
+Part-time,"Entry level","Marketing and Advertising",0,1,4,0,0
+Part-time,NULL,Accounting,0,0,7,5,71.43
+Contract,Associate,Animation,0,1,1,0,0
+Full-time,"Entry level","Information Technology and Services",0,0,37,1,2.7
+Full-time,NULL,"Computer Software",1,1,13,0,0
+Full-time,"Entry level","Marketing and Advertising",1,1,10,0,0
+Full-time,"Entry level",Utilities,0,1,5,0,0
+Full-time,"Mid-Senior level",Accounting,1,1,1,0,0
+Full-time,"Mid-Senior level","Legal Services",0,1,7,0,0
+Full-time,"Entry level",Banking,0,1,4,0,0
+Other,"Not Applicable","Leisure, Travel & Tourism",1,1,2,0,0
+Full-time,"Entry level","Government Administration",0,1,9,0,0
+Contract,"Mid-Senior level","Mechanical or Industrial Engineering",0,0,1,0,0
+Full-time,"Not Applicable",Transportation/Trucking/Railroad,0,1,6,0,0
+Full-time,Associate,"Food Production",0,1,9,0,0
+Full-time,NULL,"Human Resources",0,1,11,0,0
+Other,Internship,E-Learning,0,1,3,0,0
+Contract,Associate,Internet,0,1,9,0,0
+Full-time,NULL,Telecommunications,0,0,2,1,50
+Full-time,NULL,"Capital Markets",0,1,1,0,0
+Temporary,Associate,"Information Technology and Services",0,1,4,0,0
+Full-time,Associate,E-Learning,0,0,2,0,0
+Full-time,NULL,Accounting,0,1,5,1,20
+Full-time,"Entry level",Warehousing,0,1,10,1,10
+Part-time,"Mid-Senior level","Hospital & Health Care",0,1,9,0,0
+Full-time,"Mid-Senior level",Hospitality,0,1,3,0,0
+Full-time,"Entry level","Events Services",0,1,4,0,0
+Full-time,Internship,Pharmaceuticals,0,1,1,0,0
+Full-time,Associate,Airlines/Aviation,0,1,8,0,0
+Full-time,Associate,"Venture Capital & Private Equity",0,1,9,0,0
+Full-time,"Entry level",Construction,1,1,5,0,0
+Contract,NULL,"Mental Health Care",0,1,4,0,0
+Full-time,NULL,"Consumer Electronics",0,1,3,0,0
+Part-time,"Not Applicable","Food & Beverages",0,0,2,0,0
+Part-time,Internship,"Education Management",0,0,1,0,0
+Full-time,"Mid-Senior level",Accounting,0,1,9,1,11.11
+Part-time,Internship,"Marketing and Advertising",1,0,1,0,0
+Full-time,"Mid-Senior level",Pharmaceuticals,0,0,1,0,0
+Part-time,Associate,Utilities,0,1,1,0,0
+Full-time,Director,"Events Services",0,0,2,0,0
+Full-time,Executive,Banking,0,0,1,0,0
+Full-time,"Mid-Senior level","Marketing and Advertising",1,1,4,0,0
+Contract,Associate,Construction,0,1,3,0,0
+Contract,"Mid-Senior level","Environmental Services",0,1,1,0,0
+Full-time,Associate,"Computer & Network Security",0,1,4,0,0
+Part-time,"Mid-Senior level","Venture Capital & Private Equity",0,1,1,0,0
+NULL,NULL,NULL,1,0,38,10,26.32
+Full-time,Associate,"Oil & Energy",0,1,36,0,0
+Full-time,"Not Applicable","Management Consulting",0,1,2,0,0
+Full-time,Director,Internet,0,0,5,0,0
+Full-time,Associate,"Computer Software",1,1,6,0,0
+Contract,"Mid-Senior level","Computer Software",1,0,1,0,0
+Temporary,Internship,NULL,0,1,4,0,0
+Contract,"Mid-Senior level",Utilities,0,1,3,0,0
+Full-time,"Mid-Senior level","Mechanical or Industrial Engineering",0,1,11,0,0
+Temporary,Internship,"Computer Software",0,1,4,0,0
+Contract,"Mid-Senior level","Information Technology and Services",1,1,6,0,0
+Contract,"Entry level","Financial Services",0,1,4,0,0
+Full-time,Associate,Automotive,0,1,16,0,0
+Part-time,Associate,Internet,0,1,6,0,0
+Full-time,"Entry level","Consumer Goods",0,1,18,0,0
+Full-time,"Mid-Senior level",Semiconductors,0,1,4,0,0
+Full-time,"Mid-Senior level","Graphic Design",0,1,6,0,0
+NULL,NULL,"Staffing and Recruiting",0,1,3,0,0
+Full-time,Associate,"Graphic Design",0,1,7,0,0
+Contract,Internship,Internet,0,1,1,0,0
+Contract,Associate,"Market Research",0,0,1,0,0
+Full-time,"Mid-Senior level","Computer & Network Security",0,1,7,0,0
+Full-time,"Mid-Senior level","Public Relations and Communications",0,0,1,0,0
+Full-time,"Mid-Senior level",Warehousing,0,0,2,0,0
+NULL,NULL,"Marketing and Advertising",0,1,3,0,0
+Full-time,Executive,"Information Technology and Services",0,0,8,0,0
+Other,"Entry level",Accounting,0,0,3,3,100
+Full-time,Associate,"Health, Wellness and Fitness",0,0,5,0,0
+Full-time,Associate,"Food & Beverages",0,0,3,0,0
+Full-time,"Entry level","Food & Beverages",0,0,5,0,0
+NULL,"Entry level","Security and Investigations",0,1,1,0,0
+Contract,Associate,Research,1,0,1,0,0
+Part-time,"Entry level","Legal Services",0,1,7,0,0
+Contract,"Entry level","Computer Software",0,0,2,0,0
+Full-time,Associate,"Architecture & Planning",0,1,1,0,0
+Full-time,"Entry level","Staffing and Recruiting",0,0,3,0,0
+Full-time,NULL,"Leisure, Travel & Tourism",0,0,5,5,100
+Contract,Internship,"Computer Software",1,0,2,0,0
+Other,Internship,"Management Consulting",0,1,1,0,0
+Part-time,Internship,Maritime,1,0,1,0,0
+Other,"Mid-Senior level","Marketing and Advertising",0,1,1,0,0
+Full-time,NULL,"Mechanical or Industrial Engineering",0,1,1,0,0
+Full-time,"Entry level",Research,0,1,3,0,0
+Temporary,Internship,"Information Technology and Services",0,1,11,0,0
+Full-time,"Not Applicable",Entertainment,0,0,1,0,0
+Part-time,NULL,Transportation/Trucking/Railroad,0,1,9,0,0
+Part-time,"Not Applicable","Events Services",0,0,1,0,0
+Full-time,NULL,"Gambling & Casinos",0,1,2,0,0
+NULL,NULL,Restaurants,0,0,16,0,0
+Full-time,NULL,Retail,0,1,25,0,0
+Contract,"Not Applicable","Information Technology and Services",0,0,3,0,0
+Full-time,Director,Publishing,0,1,4,0,0
+Full-time,"Mid-Senior level",Retail,0,0,9,0,0
+Other,NULL,Accounting,0,0,1,0,0
+Full-time,"Not Applicable","Media Production",0,1,5,1,20
+Contract,NULL,NULL,0,1,35,1,2.86
+Full-time,"Not Applicable","Health, Wellness and Fitness",0,0,7,1,14.29
+Contract,"Not Applicable",Telecommunications,0,0,1,0,0
+Full-time,NULL,"Consumer Goods",0,1,7,0,0
+Full-time,Director,Biotechnology,0,1,1,0,0
+Other,Internship,"Civic & Social Organization",0,1,2,0,0
+Full-time,"Entry level",Fund-Raising,1,1,9,0,0
+Full-time,"Mid-Senior level","Consumer Goods",0,1,10,0,0
+Contract,Associate,"Information Technology and Services",0,1,19,0,0
+Full-time,"Entry level",Telecommunications,0,0,10,9,90
+Full-time,"Entry level","Apparel & Fashion",0,1,12,0,0
+Full-time,Associate,"Food & Beverages",0,1,9,0,0
+Other,"Mid-Senior level",NULL,0,1,1,0,0
+Part-time,NULL,NULL,0,0,40,32,80
+Full-time,Executive,Retail,0,1,1,0,0
+Full-time,"Mid-Senior level","Civic & Social Organization",0,1,1,0,0
+Full-time,Director,Research,0,1,3,0,0
+Full-time,"Mid-Senior level","Nonprofit Organization Management",0,0,6,0,0
+Temporary,NULL,"Hospital & Health Care",0,1,3,0,0
+Contract,NULL,Telecommunications,0,1,3,0,0
+Full-time,Associate,"Computer Hardware",0,1,6,0,0
+Full-time,Associate,"Marketing and Advertising",1,1,2,0,0
+Full-time,Associate,"Government Administration",0,1,1,0,0
+Full-time,Associate,"Consumer Electronics",0,1,18,0,0
+Full-time,Associate,"Hospital & Health Care",0,0,8,0,0
+Full-time,"Mid-Senior level",Airlines/Aviation,0,1,20,0,0
+Full-time,"Entry level",Accounting,0,0,25,23,92
+Part-time,"Not Applicable","Logistics and Supply Chain",0,1,4,0,0
+Full-time,Director,"Computer Hardware",0,1,3,0,0
+Part-time,"Entry level","Computer Games",0,1,1,0,0
+Temporary,NULL,"Management Consulting",0,1,1,0,0
+Full-time,Associate,"Computer Games",0,1,11,0,0
+Full-time,Associate,"Higher Education",0,1,1,0,0
+Part-time,"Entry level",Restaurants,0,1,2,0,0
+Full-time,NULL,"Electrical/Electronic Manufacturing",0,1,6,0,0
+Full-time,"Entry level","Consumer Services",0,0,7,1,14.29
+Part-time,NULL,"Health, Wellness and Fitness",0,1,2,0,0
+Temporary,"Entry level","Marketing and Advertising",0,1,10,0,0
+Full-time,"Mid-Senior level","Management Consulting",0,0,6,0,0
+Temporary,"Not Applicable","Events Services",0,1,1,0,0
+Full-time,Executive,"Oil & Energy",0,1,1,1,100
+Full-time,"Entry level",Telecommunications,1,0,3,2,66.67
+Part-time,"Entry level","Food Production",0,1,4,0,0
+Full-time,"Not Applicable","Oil & Energy",0,1,6,0,0
+Temporary,"Entry level","Computer Software",0,1,6,0,0
+Full-time,Associate,"Staffing and Recruiting",0,1,18,0,0
+Full-time,"Mid-Senior level","Computer Software",1,1,19,0,0
+Full-time,"Mid-Senior level","Staffing and Recruiting",0,1,12,0,0
+NULL,NULL,"Mechanical or Industrial Engineering",0,1,1,0,0
+Full-time,Internship,Accounting,0,0,2,2,100
+Full-time,Associate,Telecommunications,0,1,24,1,4.17
+Temporary,"Not Applicable","Electrical/Electronic Manufacturing",0,1,1,0,0
+Full-time,"Entry level","Online Media",0,0,3,0,0
+Full-time,"Not Applicable",Construction,0,0,7,1,14.29
+Full-time,Associate,"Computer Software",0,0,14,0,0
+Full-time,"Mid-Senior level","Information Services",1,1,2,0,0
+Full-time,Executive,E-Learning,0,1,1,0,0
+Full-time,"Not Applicable",Internet,1,1,9,0,0
+Contract,"Entry level",Retail,0,1,1,0,0
+Full-time,Associate,"Business Supplies and Equipment",0,1,1,0,0
+Full-time,"Not Applicable","Renewables & Environment",0,1,1,0,0
+Full-time,Director,Entertainment,0,1,2,0,0
+Contract,"Mid-Senior level","Marketing and Advertising",0,1,5,0,0
+Full-time,Internship,"Media Production",0,1,1,0,0
+Full-time,"Not Applicable","Hospital & Health Care",0,0,6,2,33.33
+Full-time,"Mid-Senior level","Computer Software",1,0,2,0,0
+Contract,Associate,"Computer Software",1,1,19,0,0
+Full-time,"Mid-Senior level","Motion Pictures and Film",0,1,4,0,0
+Full-time,"Entry level",Construction,0,0,6,0,0
+Contract,Associate,"Financial Services",0,1,3,0,0
+Full-time,NULL,NULL,1,1,14,0,0
+Full-time,"Not Applicable","Computer Software",1,1,2,0,0
+Full-time,Executive,"Food & Beverages",0,1,3,0,0
+Contract,"Mid-Senior level","Management Consulting",0,1,4,0,0
+Part-time,Internship,"Computer Software",0,1,12,0,0
+Full-time,Director,Semiconductors,0,1,4,0,0
+Other,Internship,"Marketing and Advertising",0,0,1,0,0
+Temporary,Associate,"Financial Services",0,1,8,0,0
+Full-time,"Not Applicable","Oil & Energy",0,0,1,0,0
+Full-time,"Mid-Senior level","Law Practice",0,1,7,0,0
+NULL,"Entry level","Consumer Services",0,1,3,0,0
+Full-time,"Entry level","Government Relations",0,1,6,0,0
+Contract,NULL,"Hospital & Health Care",0,1,6,0,0
+Full-time,Internship,Telecommunications,1,0,1,1,100
+Full-time,"Mid-Senior level","Packaging and Containers",0,1,1,0,0
+Full-time,Director,Libraries,0,0,1,0,0
+Full-time,"Mid-Senior level",Automotive,0,0,5,0,0
+Full-time,"Mid-Senior level","Sporting Goods",0,1,1,0,0
+Full-time,NULL,Restaurants,0,0,10,0,0
+Full-time,"Entry level",Warehousing,0,0,2,0,0
+Full-time,"Mid-Senior level","Health, Wellness and Fitness",0,1,11,0,0
+Full-time,"Entry level","Mining & Metals",0,1,1,0,0
+Full-time,"Entry level","Building Materials",0,1,5,0,0
+Other,Director,"Nonprofit Organization Management",0,1,1,0,0
+Part-time,Internship,NULL,0,0,1,0,0
+Contract,"Mid-Senior level","Computer Software",0,1,18,0,0
+Part-time,"Mid-Senior level","Public Relations and Communications",0,1,2,0,0
+Contract,"Mid-Senior level","Computer Games",1,1,1,0,0
+Full-time,"Entry level","Real Estate",1,1,11,11,100
+Contract,NULL,Hospitality,0,0,2,2,100
+Full-time,"Not Applicable","Online Media",0,1,4,0,0
+Full-time,"Not Applicable",Design,0,1,8,0,0
+Other,"Entry level","Nonprofit Organization Management",0,1,3,0,0
+Full-time,NULL,Transportation/Trucking/Railroad,0,1,5,0,0
+Full-time,"Entry level",Entertainment,0,1,1,0,0
+Temporary,"Not Applicable","Security and Investigations",0,0,1,0,0
+Full-time,Director,Design,0,1,8,0,0
+Full-time,Director,"Media Production",0,1,3,0,0
+Full-time,"Entry level","Computer Software",1,1,6,0,0
+Part-time,Associate,"Information Services",0,0,1,0,0
+Full-time,"Entry level","Electrical/Electronic Manufacturing",0,1,5,0,0
+Part-time,NULL,"Higher Education",0,1,4,0,0
+Full-time,"Mid-Senior level",Construction,1,1,3,0,0
+Full-time,Director,"Medical Practice",0,1,5,0,0
+Contract,"Mid-Senior level","Public Relations and Communications",0,0,1,0,0
+Full-time,Internship,Insurance,0,1,1,0,0
+Full-time,"Entry level",E-Learning,0,1,2,0,0
+Part-time,Associate,Retail,0,1,11,0,0
+Full-time,"Entry level","Staffing and Recruiting",0,1,9,0,0
+Full-time,Associate,"Nonprofit Organization Management",0,1,14,0,0
+Full-time,"Not Applicable","Import and Export",0,0,1,0,0
+Part-time,"Not Applicable",Restaurants,0,0,1,0,0
+Other,Associate,"Medical Practice",0,1,1,0,0
+Contract,"Mid-Senior level","Computer Software",1,1,7,0,0
+Full-time,Internship,Banking,0,1,3,0,0
+Full-time,NULL,"Religious Institutions",0,1,2,0,0
+Full-time,Associate,"Environmental Services",0,1,4,0,0
+Contract,NULL,Banking,0,0,1,0,0
+Contract,NULL,"Oil & Energy",0,1,3,0,0
+Other,"Not Applicable","Computer Software",0,1,2,0,0
+NULL,"Mid-Senior level","Staffing and Recruiting",0,1,2,0,0
+Temporary,Internship,"Writing and Editing",0,1,3,0,0
+Full-time,NULL,E-Learning,0,1,14,0,0
+Full-time,"Not Applicable","Consumer Goods",0,1,1,0,0
+Full-time,"Entry level",Machinery,0,1,1,0,0
+Part-time,"Not Applicable","Hospital & Health Care",0,1,9,0,0
+Full-time,Internship,Hospitality,0,0,1,0,0
+Other,"Entry level","Information Technology and Services",0,1,2,0,0
+Full-time,Internship,"Consumer Goods",0,0,1,1,100
+Temporary,"Entry level",Hospitality,0,1,2,0,0
+Full-time,NULL,Pharmaceuticals,0,0,2,0,0
+Full-time,NULL,Warehousing,0,0,9,0,0
+Full-time,Associate,Internet,1,1,5,0,0
+Contract,"Not Applicable",Retail,0,1,1,0,0
+Temporary,"Mid-Senior level",Semiconductors,0,0,1,0,0
+Full-time,"Mid-Senior level","Medical Devices",0,1,5,0,0
+Full-time,Associate,Chemicals,0,1,1,0,0
+Part-time,Associate,"Information Technology and Services",1,1,1,0,0
+Contract,"Not Applicable","Health, Wellness and Fitness",0,0,8,0,0
+Full-time,Director,"Computer Software",1,1,4,0,0
+Full-time,NULL,Insurance,0,1,4,0,0
+Other,"Not Applicable","Online Media",0,1,2,0,0
+Full-time,Associate,Entertainment,0,1,15,0,0
+Full-time,"Mid-Senior level","International Trade and Development",0,0,2,0,0
+Full-time,NULL,"Apparel & Fashion",0,1,15,0,0
+Full-time,Director,"Education Management",0,1,2,0,0
+Full-time,Associate,"Government Administration",0,0,1,0,0
+NULL,NULL,"Human Resources",0,1,1,0,0
+Part-time,Internship,Retail,0,0,1,0,0
+Part-time,NULL,"Food & Beverages",0,1,2,0,0
+Full-time,NULL,"Food & Beverages",0,1,2,0,0
+Full-time,"Not Applicable","Mechanical or Industrial Engineering",0,0,1,0,0
+Other,Internship,Internet,0,1,5,0,0
+Temporary,"Not Applicable",NULL,0,0,2,0,0
+Part-time,"Entry level","Nonprofit Organization Management",1,1,3,0,0
+NULL,Associate,"Hospital & Health Care",0,1,1,0,0
+Contract,"Not Applicable","Health, Wellness and Fitness",1,0,1,0,0
+Full-time,Internship,"Public Relations and Communications",0,1,4,0,0
+Contract,"Not Applicable","Environmental Services",0,1,1,0,0
+Contract,"Entry level",Construction,0,1,1,1,100
+Part-time,Internship,"Marketing and Advertising",0,0,4,1,25
+NULL,NULL,"Health, Wellness and Fitness",0,1,6,0,0
+Contract,"Not Applicable","Mental Health Care",1,0,1,0,0
+Full-time,"Mid-Senior level","Real Estate",0,1,76,0,0
+Full-time,NULL,"Consumer Services",0,1,33,0,0
+Full-time,Executive,"Medical Practice",0,1,1,0,0
+Full-time,Associate,Printing,0,0,4,0,0
+Full-time,Associate,Banking,0,0,4,1,25
+Full-time,Executive,"Nonprofit Organization Management",0,1,5,0,0
+NULL,NULL,"Oil & Energy",0,1,11,0,0
+Full-time,"Mid-Senior level","Professional Training & Coaching",0,1,2,0,0
+Full-time,NULL,"Market Research",0,0,34,0,0
+Full-time,NULL,Telecommunications,1,1,2,0,0
+Full-time,Associate,NULL,0,0,2,0,0
+Other,Internship,"Graphic Design",0,1,2,0,0
+Full-time,Director,"Information Technology and Services",0,0,8,1,12.5
+Part-time,NULL,Textiles,0,0,1,0,0
+NULL,"Mid-Senior level",Pharmaceuticals,1,1,1,0,0
+NULL,NULL,Pharmaceuticals,0,1,6,0,0
+Part-time,NULL,"Public Relations and Communications",0,1,1,0,0
+Full-time,"Entry level","Commercial Real Estate",0,1,2,0,0
+Full-time,NULL,"Business Supplies and Equipment",0,0,2,1,50
+Other,Associate,"Computer Software",0,1,2,0,0
+Full-time,"Entry level",Insurance,1,1,4,2,50
+Full-time,"Mid-Senior level",Wholesale,0,1,1,0,0
+Full-time,NULL,Retail,0,0,3,0,0
+Part-time,NULL,"Law Practice",0,0,1,0,0
+Other,"Not Applicable","Marketing and Advertising",0,0,4,3,75
+Part-time,"Not Applicable",Accounting,0,0,1,1,100
+Full-time,NULL,"Higher Education",0,1,1,0,0
+Full-time,Director,"Computer Software",0,0,11,0,0
+Contract,"Entry level",Utilities,0,1,4,0,0
+Other,"Not Applicable",Internet,0,1,4,0,0
+Full-time,Director,"Consumer Goods",0,1,3,0,0
+Part-time,Associate,"Events Services",0,1,1,0,0
+Contract,"Mid-Senior level","Medical Devices",0,0,3,0,0
+Part-time,"Not Applicable","Education Management",0,0,3,0,0
+Contract,"Mid-Senior level","Program Development",0,1,1,0,0
+NULL,NULL,"Financial Services",0,1,1,0,0
+Full-time,"Mid-Senior level","Law Enforcement",1,1,1,0,0
+Full-time,"Entry level","Medical Practice",0,1,4,0,0
+NULL,Associate,"Staffing and Recruiting",0,1,2,0,0
+Full-time,"Not Applicable","Consumer Services",0,0,4,3,75
+Full-time,Associate,"Logistics and Supply Chain",1,1,1,0,0
+Full-time,Associate,Wholesale,0,1,1,0,0
+Contract,"Entry level","Information Technology and Services",0,0,2,0,0
+Part-time,"Not Applicable",E-Learning,0,1,3,0,0
+Full-time,Associate,Accounting,0,0,4,1,25
+Full-time,"Mid-Senior level","Law Enforcement",0,1,3,0,0
+Contract,Internship,Research,1,1,1,0,0
+Full-time,"Mid-Senior level","Mining & Metals",0,1,2,0,0
+Full-time,Associate,"Consumer Services",0,0,3,2,66.67
+Contract,Internship,Design,0,1,2,0,0
+Part-time,"Entry level","Government Administration",0,1,2,0,0
+Part-time,Internship,"Writing and Editing",1,1,1,0,0
+Part-time,Internship,"Financial Services",0,1,1,0,0
+Full-time,NULL,"Security and Investigations",0,1,11,0,0
+Part-time,Internship,Biotechnology,0,1,2,0,0
+Full-time,Associate,"Electrical/Electronic Manufacturing",0,1,9,0,0
+Full-time,Associate,"Broadcast Media",0,1,3,0,0
+Contract,Associate,"Information Technology and Services",1,1,3,0,0
+Full-time,Executive,"Hospital & Health Care",0,1,4,0,0
+Other,NULL,"Oil & Energy",0,1,1,0,0
+Contract,Executive,"Information Technology and Services",1,1,1,0,0
+Full-time,NULL,"Management Consulting",0,1,3,0,0
+Full-time,"Not Applicable",Hospitality,0,1,5,1,20
+Full-time,"Mid-Senior level",NULL,0,0,13,1,7.69
+Full-time,NULL,"Graphic Design",0,1,2,0,0
+Full-time,"Entry level","Logistics and Supply Chain",0,1,4,2,50
+Contract,NULL,"Information Technology and Services",0,0,10,1,10
+Full-time,"Mid-Senior level","Government Administration",0,1,3,0,0
+Full-time,"Mid-Senior level",Sports,0,1,7,0,0
+Full-time,Director,Sports,0,1,1,0,0
+Part-time,NULL,"Logistics and Supply Chain",0,1,2,0,0
+Full-time,"Entry level",Automotive,0,0,1,0,0
+Part-time,"Entry level",Retail,0,0,6,0,0
+Contract,Internship,"Marketing and Advertising",0,1,4,0,0
+Full-time,NULL,"Hospital & Health Care",1,1,1,0,0
+NULL,Internship,Internet,0,1,2,0,0
+Contract,Executive,Hospitality,0,0,2,2,100
+Full-time,Director,"Financial Services",0,1,8,0,0
+Full-time,"Mid-Senior level","Electrical/Electronic Manufacturing",0,0,9,1,11.11
+Full-time,"Mid-Senior level","Market Research",0,1,4,0,0
+Other,Director,Publishing,1,1,1,0,0
+Contract,"Entry level",NULL,1,1,1,0,0
+Full-time,Associate,E-Learning,1,1,2,0,0
+Temporary,Internship,Retail,0,1,5,0,0
+Full-time,Director,"Marketing and Advertising",0,0,4,0,0
+Full-time,"Not Applicable","Security and Investigations",0,0,3,0,0
+Other,Director,"Civic & Social Organization",0,1,1,0,0
+Contract,"Entry level","Oil & Energy",0,1,1,0,0
+Full-time,"Not Applicable","Public Relations and Communications",0,0,1,0,0
+Part-time,Internship,"Management Consulting",0,0,1,0,0
+Other,"Entry level","Oil & Energy",0,1,2,0,0
+Full-time,"Mid-Senior level",Pharmaceuticals,0,1,5,0,0
+Full-time,"Mid-Senior level",E-Learning,1,1,2,0,0
+Full-time,NULL,Wholesale,0,0,2,1,50
+Contract,"Not Applicable",NULL,1,1,2,0,0
+Contract,"Mid-Senior level",Construction,0,1,2,0,0
+Full-time,"Entry level","Aviation & Aerospace",0,1,3,0,0
+Full-time,Director,"Venture Capital & Private Equity",0,1,2,0,0
+Full-time,NULL,"Computer Networking",0,1,5,0,0
+Full-time,Associate,Telecommunications,0,0,3,0,0
+Full-time,"Mid-Senior level","Education Management",0,1,5,0,0
+Contract,"Not Applicable","Package/Freight Delivery",0,1,3,0,0
+Full-time,Associate,"International Trade and Development",0,0,2,0,0
+Full-time,NULL,"Electrical/Electronic Manufacturing",0,0,7,1,14.29
+Full-time,Associate,Construction,0,0,2,0,0
+NULL,"Entry level","Facilities Services",0,1,1,0,0
+Full-time,"Mid-Senior level","Real Estate",0,0,2,0,0
+Full-time,Associate,"Legal Services",0,0,1,0,0
+Full-time,Director,Insurance,0,1,2,0,0
+Contract,"Entry level","Marketing and Advertising",0,1,2,0,0
+Contract,"Entry level",Printing,0,1,1,0,0
+Full-time,Associate,"Events Services",0,0,2,0,0
+Full-time,Director,"Computer Software",1,0,1,0,0
+Temporary,"Mid-Senior level",Cosmetics,0,1,1,0,0
+Full-time,NULL,Chemicals,0,1,3,0,0
+Contract,NULL,"Computer Software",0,1,3,0,0
+Full-time,Associate,"Building Materials",0,1,5,0,0
+Full-time,"Mid-Senior level","Health, Wellness and Fitness",1,1,2,0,0
+Full-time,Director,"Management Consulting",0,0,1,0,0
+Full-time,"Entry level","Graphic Design",0,1,2,0,0
+Full-time,Associate,"Legal Services",0,1,9,0,0
+Full-time,"Mid-Senior level",Telecommunications,0,0,5,1,20
+Contract,NULL,"Package/Freight Delivery",0,1,1,0,0
+Full-time,"Not Applicable","Information Technology and Services",1,0,1,0,0
+NULL,Associate,Research,0,0,1,0,0
+Temporary,Associate,"Computer Software",0,0,1,0,0
+Other,"Entry level",E-Learning,0,0,1,0,0
+Contract,"Entry level","Information Services",0,1,1,0,0
+Full-time,"Entry level",Publishing,0,0,1,0,0
+Full-time,"Mid-Senior level","Online Media",0,0,5,0,0
+Part-time,NULL,"Medical Practice",0,1,5,0,0
+Full-time,"Entry level","Security and Investigations",0,1,2,1,50
+Full-time,NULL,"Oil & Energy",0,0,25,25,100
+Contract,"Mid-Senior level",Telecommunications,0,0,4,0,0
+Other,"Not Applicable",Hospitality,0,0,1,0,0
+Temporary,"Not Applicable","Marketing and Advertising",1,1,1,0,0
+Contract,Internship,"Computer Software",0,1,2,0,0
+Full-time,NULL,"Media Production",0,1,5,1,20
+Full-time,NULL,"Real Estate",0,1,15,0,0
+Full-time,NULL,Internet,0,0,7,0,0
+Contract,NULL,"Marketing and Advertising",0,1,1,0,0
+Part-time,Internship,"Professional Training & Coaching",0,0,2,0,0
+Part-time,"Entry level","Mechanical or Industrial Engineering",0,0,1,0,0
+Full-time,"Not Applicable","Consumer Electronics",0,1,6,0,0
+Full-time,"Not Applicable","Real Estate",0,0,4,0,0
+Full-time,"Not Applicable","Legal Services",0,1,2,0,0
+Full-time,NULL,"Legal Services",0,1,6,0,0
+Contract,Internship,"Public Relations and Communications",0,1,1,0,0
+Full-time,"Entry level",Publishing,0,1,4,0,0
+Full-time,"Mid-Senior level","Health, Wellness and Fitness",0,0,2,0,0
+Full-time,Associate,Machinery,0,1,2,0,0
+Full-time,"Mid-Senior level","Renewables & Environment",0,1,5,0,0
+Other,Internship,Animation,0,0,1,0,0
+Part-time,"Mid-Senior level",Telecommunications,1,0,1,0,0
+Other,"Mid-Senior level","Information Technology and Services",0,0,1,0,0
+Full-time,Associate,Design,0,1,5,0,0
+Temporary,"Mid-Senior level","Translation and Localization",0,0,1,0,0
+Full-time,Executive,"Marketing and Advertising",0,1,9,0,0
+Full-time,Associate,"Higher Education",0,0,2,0,0
+Temporary,NULL,"Translation and Localization",0,0,1,0,0
+Full-time,NULL,"Broadcast Media",0,1,2,0,0
+Contract,Executive,"Information Technology and Services",0,0,1,0,0
+Part-time,"Entry level","Consumer Services",1,0,1,0,0
+Temporary,"Entry level",Hospitality,0,0,1,0,0
+Other,NULL,"Hospital & Health Care",0,0,1,0,0
+Full-time,"Mid-Senior level",Biotechnology,0,1,6,0,0
+Full-time,Associate,"Media Production",0,1,5,0,0
+Full-time,Director,"Nonprofit Organization Management",0,0,1,0,0
+Part-time,"Mid-Senior level",Cosmetics,0,1,2,0,0
+Full-time,NULL,Transportation/Trucking/Railroad,0,0,3,0,0
+Full-time,"Mid-Senior level","Human Resources",0,0,3,0,0
+Temporary,"Not Applicable",Construction,0,1,1,0,0
+Contract,"Entry level","Events Services",0,1,1,0,0
+Full-time,Executive,"Motion Pictures and Film",0,1,1,0,0
+Full-time,Associate,"Health, Wellness and Fitness",0,1,11,0,0
+Full-time,"Entry level","Education Management",0,0,3,0,0
+Contract,"Not Applicable","Hospital & Health Care",0,1,3,0,0
+Full-time,Director,"Public Relations and Communications",0,1,2,0,0
+Full-time,NULL,"Information Technology and Services",1,1,5,0,0
+Part-time,"Entry level","Information Technology and Services",0,1,8,0,0
+Full-time,NULL,Biotechnology,0,1,3,0,0
+Contract,Associate,"Events Services",0,1,1,0,0
+NULL,Associate,"Computer Software",0,1,2,0,0
+Full-time,"Mid-Senior level","Computer Hardware",0,0,2,0,0
+Contract,Associate,NULL,0,1,2,0,0
+Full-time,Internship,"Civic & Social Organization",0,1,1,0,0
+NULL,"Not Applicable",Insurance,0,1,6,0,0
+Contract,NULL,"Professional Training & Coaching",0,1,1,0,0
+Part-time,Associate,"Nonprofit Organization Management",0,1,4,0,0
+Full-time,"Mid-Senior level",Photography,0,1,3,0,0
+Other,Internship,"Computer Games",0,1,1,0,0
+Full-time,NULL,Fund-Raising,0,1,1,0,0
+Part-time,"Entry level",Banking,0,1,2,0,0
+Other,"Entry level",E-Learning,0,1,2,0,0
+Full-time,"Mid-Senior level","Architecture & Planning",0,1,1,0,0
+Full-time,Associate,Hospitality,0,0,5,0,0
+Contract,NULL,Construction,0,0,1,0,0
+Full-time,Associate,"Leisure, Travel & Tourism",0,1,5,0,0
+Full-time,Director,Construction,1,0,1,0,0
+NULL,NULL,Construction,0,1,4,0,0
+Full-time,NULL,"Venture Capital & Private Equity",0,1,1,0,0
+Other,"Mid-Senior level",NULL,1,1,1,0,0
+Full-time,"Mid-Senior level",Cosmetics,0,0,2,0,0
+Full-time,"Entry level","Media Production",0,1,4,1,25
+Full-time,"Mid-Senior level",Maritime,0,1,1,0,0
+Full-time,Associate,"Mechanical or Industrial Engineering",0,1,1,0,0
+Other,Internship,"Marketing and Advertising",0,1,8,0,0
+Temporary,NULL,Cosmetics,0,1,16,0,0
+Full-time,Associate,Publishing,0,0,1,0,0
+Full-time,"Entry level","Law Practice",0,0,2,0,0
+Part-time,"Not Applicable",Retail,0,0,2,0,0
+NULL,NULL,"Mechanical or Industrial Engineering",0,0,2,2,100
+Full-time,"Not Applicable",NULL,0,0,7,3,42.86
+NULL,"Entry level","Online Media",0,1,1,0,0
+Full-time,"Not Applicable","Computer Games",0,1,1,0,0
+NULL,NULL,"Oil & Energy",0,0,14,14,100
+Other,Associate,"Marketing and Advertising",0,1,1,0,0
+Full-time,Associate,"Industrial Automation",0,0,2,0,0
+Part-time,Internship,"Consumer Electronics",0,1,4,0,0
+Full-time,NULL,Printing,0,1,1,0,0
+Contract,"Mid-Senior level","Health, Wellness and Fitness",0,1,1,0,0
+NULL,"Mid-Senior level",Internet,0,1,4,0,0
+Part-time,"Mid-Senior level",Fund-Raising,0,1,2,0,0
+Full-time,NULL,"Logistics and Supply Chain",0,1,10,0,0
+NULL,"Mid-Senior level","Events Services",0,1,1,0,0
+Contract,"Mid-Senior level","Oil & Energy",0,1,2,0,0
+Full-time,"Not Applicable",Wireless,0,0,1,0,0
+Full-time,"Mid-Senior level",Warehousing,0,1,3,0,0
+Part-time,"Entry level","Graphic Design",0,1,1,0,0
+Part-time,"Entry level",Entertainment,0,1,1,0,0
+NULL,"Not Applicable","Information Technology and Services",0,0,1,0,0
+Full-time,Associate,"Information Services",0,1,1,0,0
+Other,"Not Applicable","Apparel & Fashion",0,0,1,0,0
+Full-time,"Mid-Senior level","Staffing and Recruiting",0,0,7,0,0
+Contract,"Not Applicable","Staffing and Recruiting",0,1,1,0,0
+Other,"Mid-Senior level",Hospitality,0,1,2,0,0
+Full-time,NULL,Automotive,0,0,2,0,0
+Part-time,Associate,"Education Management",0,0,1,0,0
+Full-time,Internship,Hospitality,0,1,2,0,0
+Full-time,Director,Banking,1,0,1,0,0
+Contract,"Not Applicable",NULL,0,1,3,0,0
+Full-time,Associate,"Education Management",0,0,1,0,0
+Full-time,"Entry level","Wine and Spirits",0,1,1,0,0
+Full-time,"Entry level","Public Safety",0,1,2,1,50
+Full-time,"Mid-Senior level","Education Management",0,0,4,0,0
+Part-time,Associate,"Mental Health Care",0,1,1,0,0
+Full-time,"Mid-Senior level",Outsourcing/Offshoring,0,1,10,0,0
+Full-time,NULL,"Information Services",0,0,2,1,50
+Part-time,Associate,"Online Media",0,1,1,0,0
+Other,NULL,"Staffing and Recruiting",0,1,2,0,0
+Full-time,"Mid-Senior level","Logistics and Supply Chain",0,0,7,0,0
+Full-time,"Not Applicable","Logistics and Supply Chain",0,1,21,0,0
+NULL,NULL,Accounting,0,1,1,0,0
+Full-time,Director,"Health, Wellness and Fitness",0,0,1,0,0
+Part-time,"Entry level",Music,0,1,2,0,0
+Full-time,Director,"Human Resources",0,1,2,1,50
+Full-time,"Entry level","Real Estate",0,0,3,0,0
+NULL,NULL,"Health, Wellness and Fitness",0,0,1,1,100
+Contract,"Mid-Senior level","Computer Software",0,0,3,0,0
+Part-time,"Not Applicable","Marketing and Advertising",0,1,2,0,0
+Other,"Entry level",Internet,0,1,3,0,0
+Part-time,"Not Applicable","Facilities Services",0,0,1,0,0
+Contract,"Not Applicable","Civic & Social Organization",0,0,1,1,100
+Temporary,"Entry level",NULL,0,1,4,0,0
+Part-time,Associate,"Oil & Energy",0,0,1,0,0
+Temporary,"Mid-Senior level","Financial Services",0,1,1,0,0
+Temporary,"Entry level","Consumer Goods",0,1,1,0,0
+Full-time,NULL,"Computer & Network Security",0,1,8,0,0
+Full-time,"Entry level","Human Resources",0,0,3,2,66.67
+Part-time,"Mid-Senior level","Broadcast Media",0,0,1,1,100
+Temporary,"Entry level",Chemicals,0,1,1,0,0
+Full-time,"Entry level","Environmental Services",0,1,6,0,0
+Full-time,NULL,"Environmental Services",0,0,10,0,0
+Full-time,Associate,Wholesale,0,0,1,0,0
+Contract,"Mid-Senior level","Information Technology and Services",1,0,2,0,0
+Full-time,Internship,"Human Resources",0,1,1,0,0
+Full-time,"Entry level",Internet,1,0,1,0,0
+Temporary,"Mid-Senior level","Nonprofit Organization Management",0,0,1,0,0
+Full-time,Director,"Staffing and Recruiting",0,0,1,0,0
+NULL,"Not Applicable","Hospital & Health Care",0,1,2,0,0
+Full-time,Executive,"Leisure, Travel & Tourism",0,1,3,0,0
+Full-time,"Entry level",Retail,0,0,1,0,0
+Part-time,Associate,Insurance,1,0,1,0,0
+Part-time,"Not Applicable","Financial Services",0,0,3,3,100
+NULL,"Not Applicable",NULL,1,1,1,0,0
+Full-time,Internship,"Civil Engineering",0,1,1,0,0
+Contract,Associate,Military,1,1,1,1,100
+Part-time,"Not Applicable","Food & Beverages",0,1,1,0,0
+Other,"Entry level",Wholesale,0,1,1,0,0
+Full-time,Director,"Consumer Goods",0,0,1,0,0
+Temporary,NULL,"Apparel & Fashion",0,1,2,0,0
+Full-time,NULL,"Facilities Services",0,1,2,0,0
+Full-time,"Entry level",Sports,0,1,3,0,0
+Full-time,Associate,"Staffing and Recruiting",0,0,2,0,0
+Part-time,Associate,"Apparel & Fashion",0,1,2,0,0
+Full-time,Associate,"Gambling & Casinos",0,0,3,0,0
+Full-time,"Mid-Senior level","Food Production",0,0,2,1,50
+Full-time,Internship,"Legal Services",0,1,1,0,0
+Full-time,Internship,"Renewables & Environment",0,1,1,0,0
+Part-time,Associate,"Hospital & Health Care",0,1,4,0,0
+Full-time,"Entry level",Utilities,0,0,1,1,100
+Full-time,"Entry level",Printing,0,1,4,0,0
+Full-time,Internship,"Investment Management",0,0,1,1,100
+Full-time,Associate,"Business Supplies and Equipment",0,0,3,0,0
+Full-time,Executive,Design,0,1,1,0,0
+Contract,NULL,Construction,0,1,2,0,0
+NULL,NULL,"Consumer Electronics",0,1,1,0,0
+NULL,NULL,Insurance,0,0,1,1,100
+Part-time,NULL,"Hospital & Health Care",0,0,2,1,50
+Full-time,Associate,"Government Relations",0,1,2,0,0
+Full-time,NULL,Printing,0,0,4,0,0
+Full-time,Associate,"Information Technology and Services",1,0,1,0,0
+Contract,"Not Applicable","Computer Software",1,1,8,0,0
+Part-time,"Entry level","Oil & Energy",0,1,1,0,0
+Full-time,NULL,"Information Services",0,1,3,0,0
+NULL,Associate,NULL,0,1,2,0,0
+Full-time,"Mid-Senior level",Insurance,0,1,11,1,9.09
+Contract,"Not Applicable","Information Technology and Services",0,1,2,0,0
+Contract,Associate,"Consumer Services",1,0,1,1,100
+NULL,"Not Applicable","Legal Services",0,1,2,0,0
+Full-time,"Not Applicable","Marketing and Advertising",1,1,1,0,0
+NULL,NULL,Pharmaceuticals,1,1,3,0,0
+Full-time,"Entry level","Food Production",1,1,1,0,0
+Contract,NULL,Design,0,1,3,0,0
+NULL,Associate,"Renewables & Environment",0,0,2,0,0
+Temporary,Associate,Entertainment,0,1,1,0,0
+Other,Internship,"Public Relations and Communications",0,1,2,0,0
+Full-time,"Mid-Senior level","Import and Export",0,0,2,0,0
+Temporary,NULL,"Logistics and Supply Chain",0,1,2,0,0
+Full-time,"Entry level","Computer Networking",0,1,2,0,0
+Full-time,"Mid-Senior level","Computer Networking",0,0,2,0,0
+Full-time,"Not Applicable","Computer Games",1,1,1,0,0
+Full-time,"Entry level","Information Technology and Services",1,0,4,0,0
+Full-time,Internship,"Logistics and Supply Chain",0,1,1,0,0
+Other,"Not Applicable",E-Learning,0,1,1,0,0
+Temporary,NULL,"Public Relations and Communications",0,1,1,0,0
+Full-time,"Mid-Senior level","Facilities Services",0,1,1,0,0
+Contract,Director,"Financial Services",0,1,1,0,0
+Full-time,NULL,"Mechanical or Industrial Engineering",0,0,8,1,12.5
+Full-time,Executive,Hospitality,0,1,3,3,100
+Contract,"Entry level",Hospitality,0,0,1,0,0
